@@ -36,8 +36,8 @@ This architecture implements three core Enterprise Integration Patterns to guara
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-   cd your-repo-name
+   git clone [https://github.com/hasansayeed-coder/rabbitmq-order-processing](https://github.com/hasansayeed-coder/rabbitmq-order-processing)
+   cd rabbitmq-order-processing
 
 2. Install dependencies:
     npm install amqplib express
